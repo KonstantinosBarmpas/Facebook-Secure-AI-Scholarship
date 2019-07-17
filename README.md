@@ -6,6 +6,7 @@ Received a scholarship from Facebook to attend free online secure AI courses. Sc
 This repo contains the jupyter notebooks used during the online courses via Udacity's platform.
 
 # Topics covered during the lessons:
+
 1) Differential Privacy
 2) Federated Learning
 3) Secure Federated Learning
